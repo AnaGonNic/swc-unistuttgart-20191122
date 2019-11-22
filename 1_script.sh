@@ -1,3 +1,4 @@
-touch create_example1.txt
+touch example1.txt
+touch example2.txt
 
 
